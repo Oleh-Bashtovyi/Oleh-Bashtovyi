@@ -109,17 +109,6 @@ I'm focused on writing clean, maintainable code and learning best practices alon
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/Oleh-Bashtovyi">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Oleh-Bashtovyi&theme=transparent&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/Oleh-Bashtovyi">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oleh-Bashtovyi&layout=compact&theme=transparent" />
-</a>
-
----
-
 ## 📫 Get In Touch
 
 - **GitHub**: [@Oleh-Bashtovyi](https://github.com/Oleh-Bashtovyi)
