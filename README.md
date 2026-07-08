@@ -115,5 +115,3 @@ I'm focused on writing clean, maintainable code and learning best practices alon
 - Open to collaboration and new opportunities
 
 ---
-
-**Happy Coding! 💻**
