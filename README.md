@@ -111,7 +111,5 @@ I'm focused on writing clean, maintainable code and learning best practices alon
 
 ## 📫 Get In Touch
 
-- **GitHub**: [@Oleh-Bashtovyi](https://github.com/Oleh-Bashtovyi)
+- **Email**: olehbashtovyi@gmail.com
 - Open to collaboration and new opportunities
-
----
